@@ -1,0 +1,14 @@
+{
+  "name": "balancedbrackets",
+  "version": "1.0.0",
+  "description": "First question of Bravi's test for Full Stack Developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nazareno Costa",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
