@@ -40,6 +40,4 @@ function isValid (strValue) {
     return (temp.length == 0);
 }
 
-module.exports = { 
-    brackets: brackets 
-}
+module.exports = { brackets }
